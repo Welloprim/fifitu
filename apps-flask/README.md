@@ -3,7 +3,7 @@
 > A pretty and customizable web app to deploy your DL model with ease
 
 
-## Getting started in 10 minutes
+## Getting started
 
 - Clone this repo 
 - Install requirements

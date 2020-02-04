@@ -1,4 +1,4 @@
-# Deploy Keras Model with Flask as Web App in 10 Minutes
+# Keras Model with Flask
 
 > A pretty and customizable web app to deploy your DL model with ease
 
@@ -21,13 +21,13 @@ With **[Docker](https://www.docker.com)**, you can quickly build and run the ent
 ```shell
 # 1. First, clone the repo
 $ git clone https://github.com/welloprim/fifitu/apps-flask.git
-$ cd keras-flask-deploy-webapp
+$ cd apps-flask
 
 # 2. Build Docker image
-$ docker build -t keras_flask_app .
+$ docker build -t apps-flask .
 
 # 3. Run!
-$ docker run -it --rm -p 5000:5000 keras_flask_app
+$ docker run -it --rm -p 5000:5000 apps-flask
 ```
 
 Open http://localhost:5000 and wait till the webpage is loaded.

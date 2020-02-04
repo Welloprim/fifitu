@@ -1,0 +1,34 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Flask :
+instance/
+.webassets-cache
+
+# Editors
+.vscode/
+.idea/
+
+# Custom data directory
+uploads/*
+models/*
+template/
+
+.style_test.css
+.testjs.js
+
+!uploads/README.md
+!models/README.md

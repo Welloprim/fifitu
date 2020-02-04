@@ -20,7 +20,7 @@ With **[Docker](https://www.docker.com)**, you can quickly build and run the ent
 
 ```shell
 # 1. First, clone the repo
-$ git clone https://github.com/mtobeiyf/keras-flask-deploy-webapp.git
+$ git clone https://github.com/welloprim/fifitu/apps-flask.git
 $ cd keras-flask-deploy-webapp
 
 # 2. Build Docker image

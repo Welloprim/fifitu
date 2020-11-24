@@ -8,7 +8,7 @@
 - Clone this repo 
 - Install requirements
 - Run the script
-- Go to http://localhost:5000
+- Go to http://localhost:5051
 - Done! :tada:
 
 :point_down: Screenshot:
@@ -30,7 +30,7 @@ $ docker build -t apps-flask .
 $ docker run -it --rm -p 5000:5000 apps-flask
 ```
 
-Open http://localhost:5000 and wait till the webpage is loaded.
+Open http://localhost:5051 and wait till the webpage is loaded.
 
 ## Local Installation
 
@@ -48,7 +48,7 @@ $ pip install -r requirements.txt
 $ python app.py
 ```
 
-Open http://localhost:5000 and have fun. :smiley:
+Open http://localhost:5051 and have fun. :smiley:
 
   
 ### Run the app
